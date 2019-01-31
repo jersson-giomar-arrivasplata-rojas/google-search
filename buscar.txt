@@ -1,0 +1,3 @@
+spotify intext:(password | passcode) intext:(username | userid | user) daterange:2019 filetype:txt
+
+https://wifi.grupoutp.edu.pe/captive-portal?destination_url=http://www.msftconnecttest.com/redirect

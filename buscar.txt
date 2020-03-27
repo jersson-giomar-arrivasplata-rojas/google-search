@@ -1,3 +1,6 @@
 spotify intext:(password | passcode) intext:(username | userid | user) daterange:2019 filetype:txt
 
 https://wifi.grupoutp.edu.pe/captive-portal?destination_url=http://www.msftconnecttest.com/redirect
+
+
+C:\Users\Jersson>ping -n 9000 -l 9999 192.168.0.11
